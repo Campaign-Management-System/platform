@@ -1,6 +1,6 @@
-# Project Name
+# Campaign Management System
 
-Campaign Management System
+System for managing school reward campaigns.
 
 ## Status
 🚧 Work in progress
